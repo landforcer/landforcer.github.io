@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://landforcer.com/blog/</loc>
-    <lastmod>2020-04-01T16:11:52+08:00</lastmod>
+    <loc>https://landforcer.com/about/</loc>
+    <lastmod>2020-04-01T16:25:41+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://landforcer.com/</loc>
+    <lastmod>2020-04-01T16:25:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://landforcer.com/about/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    <lastmod>2020-04-01T16:25:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://landforcer.com/blog/</loc>
     <lastmod>2020-04-01T16:11:52+08:00</lastmod>
   </url>
   

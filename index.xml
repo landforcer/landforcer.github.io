@@ -6,10 +6,19 @@
     <description>Recent content on landforcer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Apr 2020 16:11:52 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 16:25:41 +0800</lastBuildDate>
     
 	<atom:link href="https://landforcer.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关于我</title>
+      <link>https://landforcer.com/about/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+      <pubDate>Wed, 01 Apr 2020 16:25:41 +0800</pubDate>
+      
+      <guid>https://landforcer.com/about/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+      <description>我是滕春雷，未完待续。</description>
+    </item>
     
     <item>
       <title>Welcome</title>
