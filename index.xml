@@ -6,10 +6,19 @@
     <description>Recent content on landforcer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 31 Mar 2020 21:12:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 16:11:52 +0800</lastBuildDate>
     
 	<atom:link href="https://landforcer.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://landforcer.com/blog/welcome/</link>
+      <pubDate>Wed, 01 Apr 2020 16:11:52 +0800</pubDate>
+      
+      <guid>https://landforcer.com/blog/welcome/</guid>
+      <description>你好，世界。</description>
+    </item>
     
     <item>
       <title>Blog</title>
@@ -18,15 +27,6 @@
       
       <guid>https://landforcer.com/post/blog/</guid>
       <description>你好世界。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://landforcer.com/blog/123/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landforcer.com/blog/123/</guid>
-      <description></description>
     </item>
     
   </channel>
