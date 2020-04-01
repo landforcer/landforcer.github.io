@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>landforcer</title>
-    <link>https://landforcer.github.io/</link>
+    <link>landforcer.github.io/</link>
     <description>Recent content on landforcer</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 31 Mar 2020 21:12:11 +0800</lastBuildDate>
     
-	<atom:link href="https://landforcer.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="landforcer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://landforcer.github.io/post/blog/</link>
+      <link>landforcer.github.io/post/blog/</link>
       <pubDate>Tue, 31 Mar 2020 21:12:11 +0800</pubDate>
       
-      <guid>https://landforcer.github.io/post/blog/</guid>
+      <guid>landforcer.github.io/post/blog/</guid>
       <description>你好世界。</description>
     </item>
     
