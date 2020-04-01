@@ -1,10 +1,10 @@
 [
     {
-        "ref": "https://landforcer.com/post/blog/",
-        "title": "Blog",
-        "section": "post",
+        "ref": "https://landforcer.com/blog/123/",
+        "title": "",
+        "section": "blog",
         "tags": null,
-        "date" : "2020.03.31",
-        "body": "你好世界。\n"
+        "date" : "0001.01.01",
+        "body": ""
     }
 ]
