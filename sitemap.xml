@@ -1,48 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://landforcer.com/about/</loc>
-    <lastmod>2020-04-01T16:25:41+08:00</lastmod>
-  </url>
+    
+      <url>
+        <loc>https://landforcer.com/categories/</loc>
+      </url>
+    
   
-  <url>
-    <loc>https://landforcer.com/</loc>
-    <lastmod>2020-04-01T16:25:41+08:00</lastmod>
-  </url>
+    
+      <url>
+        <loc>https://landforcer.com/</loc>
+      </url>
+    
   
-  <url>
-    <loc>https://landforcer.com/about/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    <lastmod>2020-04-01T16:25:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landforcer.com/blog/</loc>
-    <lastmod>2020-04-01T16:11:52+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landforcer.com/blog/welcome/</loc>
-    <lastmod>2020-04-01T16:11:52+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landforcer.com/post/blog/</loc>
-    <lastmod>2020-03-31T21:12:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landforcer.com/post/</loc>
-    <lastmod>2020-03-31T21:12:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landforcer.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://landforcer.com/tags/</loc>
-  </url>
+    
+      <url>
+        <loc>https://landforcer.com/tags/</loc>
+      </url>
+    
   
 </urlset>
