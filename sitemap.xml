@@ -1,22 +1,17 @@
-<?xml-stylesheet type="text/xsl" href="http://landforcer.com/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://landforcer.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://landforcer.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://landforcer.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://landforcer.com/</loc>
   </url>
   
   <url>
-    <loc>http://landforcer.com/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://landforcer.com/tags/</loc>
   </url>
   
 </urlset>
