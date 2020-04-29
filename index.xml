@@ -1,14 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>landforcer</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on landforcer</description>
+    <title>LANDFORCER on LANDFORCER</title>
+    <link>https://landforcer.com/</link>
+    <description>Recent content in LANDFORCER on LANDFORCER</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 22:30:12 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Posts</title>
+      <link>https://landforcer.com/post/</link>
+      <pubDate>Thu, 09 Apr 2020 22:30:12 +0800</pubDate>
+      
+      <guid>https://landforcer.com/post/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
