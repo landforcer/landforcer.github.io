@@ -5,8 +5,17 @@
     <description>Recent content in LANDFORCER on LANDFORCER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 22:30:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 17:13:27 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abouts</title>
+      <link>https://landforcer.com/about/</link>
+      <pubDate>Sat, 02 May 2020 17:13:27 +0800</pubDate>
+      
+      <guid>https://landforcer.com/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Posts</title>
